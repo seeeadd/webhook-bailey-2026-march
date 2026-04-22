@@ -17,7 +17,7 @@ const PRODUCT_ROUTES = {
   },
   // Product 85 = AI Income OS ($1,997) → os-buyer tag
   '85': {
-    url: 'https://services.leadconnectorhq.com/hooks/mRbOcEobWT5kQ5hBurus/webhook-trigger/17426eb3-b911-40c5-98ff-61d4f5884d1f',
+    url: 'https://services.leadconnectorhq.com/hooks/mRbOcEobWT5kQ5hBurus/webhook-trigger/6c51951e-0867-4f64-85ad-c708d65eb5c1',
     tag: 'os-buyer',
     name: 'AI Income OS'
   },
