@@ -15,7 +15,13 @@ const PRODUCT_ROUTES = {
     tag: 'vip-buyer',
     name: 'VIP Kit'
   },
-  // Product 85 = AI Income OS ($1,997) → os-buyer tag
+  // Product 84 = AI Income OS (original) → os-buyer tag
+  '84': {
+    url: 'https://services.leadconnectorhq.com/hooks/mRbOcEobWT5kQ5hBurus/webhook-trigger/6c51951e-0867-4f64-85ad-c708d65eb5c1',
+    tag: 'os-buyer',
+    name: 'AI Income OS'
+  },
+  // Product 85 = AI Income OS (coupon variant) → os-buyer tag
   '85': {
     url: 'https://services.leadconnectorhq.com/hooks/mRbOcEobWT5kQ5hBurus/webhook-trigger/6c51951e-0867-4f64-85ad-c708d65eb5c1',
     tag: 'os-buyer',
